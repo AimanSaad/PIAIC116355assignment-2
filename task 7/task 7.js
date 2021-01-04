@@ -1,0 +1,3 @@
+var a = parseInt(prompt("enter a number of your choice"));
+var b = parseInt(prompt("enter another number of your choice"));
+document.write("The sum of these two numbers is: " + (a + b) + "<br><hr>The difference of these two numbers is: " + (a - b) + "<br><hr>The product of these two numbers is: " + (a * b) + "<br><hr>The qoutient of these two numbers is: " + (a / b) +"<br><hr>The remainder of these two numbers is: " + (a % b) );
